@@ -1,5 +1,5 @@
 # Clean-mtab-config
-A simple and clean configuration file to use for the 'mtab' chrome extension.
+A simple and clean way to spice things up in your chromium browser!
 
 How to use:
 1. Install the extension mtab: https://chromewebstore.google.com/detail/mtab/fdaphilojaklgkoocegabckfanjoacjg
