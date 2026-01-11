@@ -1,0 +1,163 @@
+{
+  "options": {
+    "showOptionsButton": true
+  },
+  "user": {
+    "name": "Harshith"
+  },
+  "title": {
+    "defaultTitle": "mtab",
+    "dynamic": {
+      "enabled": true
+    },
+    "effect": "none",
+    "faviconType": "default"
+  },
+  "message": {
+    "enabled": true,
+    "font": {
+      "type": "default",
+      "custom": ""
+    },
+    "textColor": "#ffffff",
+    "textSize": 3.75,
+    "type": "afternoon-morning",
+    "customText": "your custom text",
+    "weather": {
+      "unitsType": "f"
+    }
+  },
+  "wallpaper": {
+    "type": "url",
+    "enabled": true,
+    "url": "https://images.hdqwalls.com/wallpapers/lake-windermere-autumn-season-4k-dz.jpg",
+    "filters": {
+      "brightness": "1",
+      "blur": "3px"
+    }
+  },
+  "ui": {
+    "style": "glass",
+    "glassColor": "#ffffff20",
+    "blurStrength": "32px",
+    "foregroundColor": "#262626",
+    "backgroundColor": "#171717",
+    "highlightColor": "#ffffff20",
+    "cornerStyle": "round",
+    "customCSS": "/* input custom css... */"
+  },
+  "animations": {
+    "enabled": true,
+    "bookmarkTiming": "left",
+    "initialType": "animate-up-bouncy",
+    "searchType": "animate-page-shrink",
+    "bookmarkType": "animate-page-up"
+  },
+  "search": {
+    "enabled": true,
+    "font": {
+      "type": "default",
+      "custom": ""
+    },
+    "textColor": "#ffffff",
+    "placeholderText": "search...",
+    "bookmarkPlaceholderText": "find bookmark...",
+    "placeholderTextColor": "#a1a1aa",
+    "searchIconColor": "#14b8a6",
+    "bookmarkIconColor": "#3b82f6",
+    "selectIconColor": "#f59e0b",
+    "recognizeLinks": true,
+    "linkTextColor": "#0ea5e9",
+    "engine": "duckduckgo",
+    "useCustomEngine": false,
+    "customEngineURL": "",
+    "focusedBorderColor": "#0ea5e9",
+    "suggestions": true,
+    "assist": {
+      "date": true,
+      "math": true,
+      "definitions": true,
+      "conversions": true
+    }
+  },
+  "hotkeys": {
+    "enabled": true,
+    "activationKey": " ",
+    "closePageKey": "x",
+    "searchBookmarksKey": "b"
+  },
+  "bookmarks": {
+    "type": "user-defined",
+    "showBookmarkNames": false,
+    "numberKeys": false,
+    "lineOrientation": "top",
+    "defaultFolderIconType": "ri-folder-fill",
+    "userDefinedCols": 3,
+    "userDefined": [
+      {
+        "color": "#6366f1",
+        "fill": "",
+        "iconColor": "#ffffff",
+        "iconType": "ri-github-fill",
+        "name": "github",
+        "type": "bookmark",
+        "url": "https://github.com"
+      },
+      {
+        "color": "#f43f5e",
+        "fill": "",
+        "iconColor": "#ffffff",
+        "iconType": "ri-youtube-fill",
+        "name": "youtube",
+        "type": "bookmark",
+        "url": "https://youtube.com"
+      },
+      {
+        "color": "#f97316",
+        "fill": "",
+        "iconColor": "#ffffff",
+        "iconType": "ri-reddit-fill",
+        "name": "reddit",
+        "type": "bookmark",
+        "url": "https://www.reddit.com"
+      },
+      {
+        "color": "#14b8a6",
+        "fill": "",
+        "iconColor": "#ffffff",
+        "iconType": "ri-perplexity-fill",
+        "name": "Perplexity",
+        "type": "bookmark",
+        "url": "https://perplexity.ai"
+      },
+      {
+        "color": "#25D366",
+        "fill": "",
+        "iconColor": "#ffffff",
+        "iconType": "ri-whatsapp-line",
+        "name": "Whatsapp",
+        "type": "bookmark",
+        "url": "web.whatsapp.com"
+      },
+      {
+        "color": "#4169e1",
+        "fill": "",
+        "iconColor": "#ffffff",
+        "iconType": "nf-md-arch",
+        "name": "Arch User Repository",
+        "type": "bookmark",
+        "url": "aur.archlinux.org"
+      }
+    ],
+    "defaultBlockyCols": 4,
+    "defaultBlockyColorType": "custom",
+    "defaultBlockyColor": "#ffffff",
+    "bookmarksLocationFirefox": "toolbar",
+    "defaultFaviconSource": "duckduckgo"
+  },
+  "extras": {
+    "snow": {
+      "enabled": "off"
+    }
+  }
+}
